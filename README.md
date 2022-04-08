@@ -13,7 +13,7 @@
 - python3-pip
 
 ### deploy
-'''
+```
 pip install datetime decouple pandas requests skimpy
 python main.py
-'''	
+```
