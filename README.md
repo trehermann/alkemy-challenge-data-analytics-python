@@ -4,7 +4,7 @@
 - [X] request csv			
 - [X] save w/ date in path		
 - [ ] logging			
-- [ ] pandas processing		
+- [X] pandas processing		
 - [ ] load into database
 - [ ] exception handling
 
