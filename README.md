@@ -5,4 +5,16 @@
 - [X] save w/ date in path		
 - [ ] logging			
 - [ ] pandas processing		
-- [ ] load into database		
+- [ ] load into database
+- [ ] exception handling
+
+### dependencies
+- python3
+- python3-pip
+
+### deploy
+'''
+pip install datetime decouple pandas requests skimpy
+python main.py
+
+'''	
