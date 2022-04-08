@@ -7,6 +7,7 @@
 - [X] pandas processing		
 - [ ] load into database
 - [ ] exception handling
+- [ ] add comments 
 
 ### dependencies
 - python3
